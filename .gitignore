@@ -1,0 +1,5 @@
+/bin/
+/build/
+/src/enumeration/*class
+.classpath
+.settings/
